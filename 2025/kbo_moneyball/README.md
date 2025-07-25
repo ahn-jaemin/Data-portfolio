@@ -15,10 +15,10 @@
 
 ## 📁 디렉토리 구조
 
-kbo-moneyball/
-├── README.md
-├── code / # 코드 원본
-└── result / # 결과물 (그래프, 표)
+kbo-moneyball/  
+├── README.md  
+├── code /     # 코드 원본  
+└── result /   # 결과물 (그래프, 표)  
 
 
 📎 참고 자료
